@@ -1,0 +1,331 @@
+[2026-05-24 13:22:45] NC Rec League Tennis engine started. YEAR=2026, SECTION=Southern, DISTRICT=North Carolina
+[2026-05-24 13:22:45] Running target: Adult 55 & Over 3.5 Men
+[2026-05-24 13:22:45] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguearea.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina
+[2026-05-24 13:22:47] Adult 55 & Over 3.5 Men: discovered 14 areas
+[2026-05-24 13:22:47] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Albermarle&gender=M
+[2026-05-24 13:22:48] Albermarle: found 0 target league row(s)
+[2026-05-24 13:22:48] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Capital+Area+%28Ral%29&gender=M
+[2026-05-24 13:22:49] Capital Area (Ral): found 1 target league row(s)
+[2026-05-24 13:22:49] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Capital+Area+%28Ral%29&gender=M
+[2026-05-24 13:22:52] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=3.5  Men&year=2026&s=4
+[2026-05-24 13:22:53] Capital Area (Ral) / Adult 55 & Over 3.5 Men: found 11/11 teams
+[2026-05-24 13:22:53] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Capital+Area+%28Ral%29&gender=M
+[2026-05-24 13:22:55] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=3.5  Men&year=2026&s=4
+[2026-05-24 13:22:57] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=Br.Elder55A&year=2026
+[2026-05-24 13:23:00] Capital Area (Ral) / Br.Elder55A: scraped 15 players
+[2026-05-24 13:23:00] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Capital+Area+%28Ral%29&gender=M
+[2026-05-24 13:23:02] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=3.5  Men&year=2026&s=4
+[2026-05-24 13:23:05] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=Ch.Bricker55A&year=2026
+[2026-05-24 13:23:08] Capital Area (Ral) / Ch.Bricker55A: scraped 14 players
+[2026-05-24 13:23:08] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Capital+Area+%28Ral%29&gender=M
+[2026-05-24 13:23:10] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=3.5  Men&year=2026&s=4
+[2026-05-24 13:23:12] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=Da.Huffman55A&year=2026
+[2026-05-24 13:23:15] Capital Area (Ral) / Da.Huffman55A: scraped 15 players
+[2026-05-24 13:23:15] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Capital+Area+%28Ral%29&gender=M
+[2026-05-24 13:23:18] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=3.5  Men&year=2026&s=4
+[2026-05-24 13:23:19] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=Da.Swann55A&year=2026
+[2026-05-24 13:23:23] Capital Area (Ral) / Da.Swann55A: scraped 15 players
+[2026-05-24 13:23:23] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Capital+Area+%28Ral%29&gender=M
+[2026-05-24 13:23:25] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=3.5  Men&year=2026&s=4
+[2026-05-24 13:23:27] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=Gr.Knowles55A&year=2026
+[2026-05-24 13:23:29] Capital Area (Ral) / Gr.Knowles55A: scraped 12 players
+[2026-05-24 13:23:29] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Capital+Area+%28Ral%29&gender=M
+[2026-05-24 13:23:32] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=3.5  Men&year=2026&s=4
+[2026-05-24 13:23:33] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=Je.Miller55A&year=2026
+[2026-05-24 13:23:37] Capital Area (Ral) / Je.Miller55A: scraped 11 players
+[2026-05-24 13:23:37] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Capital+Area+%28Ral%29&gender=M
+[2026-05-24 13:23:39] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=3.5  Men&year=2026&s=4
+[2026-05-24 13:23:41] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=Jo.Cockerham55A&year=2026
+[2026-05-24 13:23:46] Capital Area (Ral) / Jo.Cockerham55A: scraped 8 players
+[2026-05-24 13:23:46] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Capital+Area+%28Ral%29&gender=M
+[2026-05-24 13:23:49] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=3.5  Men&year=2026&s=4
+[2026-05-24 13:23:50] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=Jo.Parham55A&year=2026
+[2026-05-24 13:23:55] Capital Area (Ral) / Jo.Parham55A: scraped 13 players
+[2026-05-24 13:23:55] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Capital+Area+%28Ral%29&gender=M
+[2026-05-24 13:23:57] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=3.5  Men&year=2026&s=4
+[2026-05-24 13:23:59] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=Ro.Boyle55A&year=2026
+[2026-05-24 13:24:02] Capital Area (Ral) / Ro.Boyle55A: scraped 14 players
+[2026-05-24 13:24:02] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Capital+Area+%28Ral%29&gender=M
+[2026-05-24 13:24:04] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=3.5  Men&year=2026&s=4
+[2026-05-24 13:24:05] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=To.Blevins55A&year=2026
+[2026-05-24 13:24:09] Capital Area (Ral) / To.Blevins55A: scraped 14 players
+[2026-05-24 13:24:09] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Capital+Area+%28Ral%29&gender=M
+[2026-05-24 13:24:13] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=3.5  Men&year=2026&s=4
+[2026-05-24 13:24:15] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=Wi.Turner55A&year=2026
+[2026-05-24 13:24:21] Capital Area (Ral) / Wi.Turner55A: scraped 14 players
+[2026-05-24 13:24:21] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Central+Carolina+%28Cary%29&gender=M
+[2026-05-24 13:24:23] Central Carolina (Cary): found 1 target league row(s)
+[2026-05-24 13:24:23] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Central+Carolina+%28Cary%29&gender=M
+[2026-05-24 13:24:26] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=Adult 55 %26 Over 3.5 Men&year=2026
+[2026-05-24 13:24:28] Central Carolina (Cary) / Adult 55 & Over 3.5 Men: found 5/5 teams
+[2026-05-24 13:24:28] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Central+Carolina+%28Cary%29&gender=M
+[2026-05-24 13:24:30] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=Adult 55 %26 Over 3.5 Men&year=2026
+[2026-05-24 13:24:33] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=CAS.Pedersen&year=2026
+[2026-05-24 13:24:38] Central Carolina (Cary) / CAS.Pedersen: scraped 10 players
+[2026-05-24 13:24:38] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Central+Carolina+%28Cary%29&gender=M
+[2026-05-24 13:24:40] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=Adult 55 %26 Over 3.5 Men&year=2026
+[2026-05-24 13:24:42] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=KF.Hornbach&year=2026
+[2026-05-24 13:24:45] Central Carolina (Cary) / KF.Hornbach: scraped 15 players
+[2026-05-24 13:24:45] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Central+Carolina+%28Cary%29&gender=M
+[2026-05-24 13:24:47] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=Adult 55 %26 Over 3.5 Men&year=2026
+[2026-05-24 13:24:48] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=LOCH.Newsome&year=2026
+[2026-05-24 13:25:01] Central Carolina (Cary) / LOCH.Newsome: scraped 13 players
+[2026-05-24 13:25:01] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Central+Carolina+%28Cary%29&gender=M
+[2026-05-24 13:25:02] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=Adult 55 %26 Over 3.5 Men&year=2026
+[2026-05-24 13:25:04] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=NMAC.Daniel&year=2026
+[2026-05-24 13:25:09] Central Carolina (Cary) / NMAC.Daniel: scraped 9 players
+[2026-05-24 13:25:09] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Central+Carolina+%28Cary%29&gender=M
+[2026-05-24 13:25:11] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=Adult 55 %26 Over 3.5 Men&year=2026
+[2026-05-24 13:25:12] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=TOC.Horowitz&year=2026&s=2
+[2026-05-24 13:25:17] Central Carolina (Cary) / TOC.Horowitz: scraped 10 players
+[2026-05-24 13:25:17] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Coastal+Plains&gender=M
+[2026-05-24 13:25:19] Coastal Plains: found 1 target league row(s)
+[2026-05-24 13:25:19] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Coastal+Plains&gender=M
+[2026-05-24 13:25:21] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=3.5 MEN 55 %26 over&year=2026
+[2026-05-24 13:25:23] Coastal Plains / Adult 55 & Over 3.5 Men: found 4/4 teams
+[2026-05-24 13:25:23] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Coastal+Plains&gender=M
+[2026-05-24 13:25:25] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=3.5 MEN 55 %26 over&year=2026
+[2026-05-24 13:25:27] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=Baywood 3.5 55%2b&year=2026
+[2026-05-24 13:25:30] Coastal Plains / Baywood 3.5 55+: scraped 14 players
+[2026-05-24 13:25:30] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Coastal+Plains&gender=M
+[2026-05-24 13:25:31] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=3.5 MEN 55 %26 over&year=2026
+[2026-05-24 13:25:33] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=EM-Whitley (55s 3.5M SP)&year=2026
+[2026-05-24 13:25:37] Coastal Plains / EM-Whitley (55s 3.5M SP): scraped 9 players
+[2026-05-24 13:25:37] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Coastal+Plains&gender=M
+[2026-05-24 13:25:38] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=3.5 MEN 55 %26 over&year=2026
+[2026-05-24 13:25:40] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=GR-Taylor (55s 3.5M SP)&year=2026
+[2026-05-24 13:25:44] Coastal Plains / GR-Taylor (55s 3.5M SP): scraped 12 players
+[2026-05-24 13:25:44] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Coastal+Plains&gender=M
+[2026-05-24 13:25:46] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=3.5 MEN 55 %26 over&year=2026
+[2026-05-24 13:25:48] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=RB - Kool Kidz&year=2026
+[2026-05-24 13:25:52] Coastal Plains / RB - Kool Kidz: scraped 10 players
+[2026-05-24 13:25:52] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Eno+River+%28Dur%29&gender=M
+[2026-05-24 13:25:56] Eno River (Dur): found 1 target league row(s)
+[2026-05-24 13:25:56] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Eno+River+%28Dur%29&gender=M
+[2026-05-24 13:25:59] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=55 Over Adult 3.5 Men Evening&year=2026
+[2026-05-24 13:26:03] Eno River (Dur) / Adult 55 & Over 3.5 Men: found 6/6 teams
+[2026-05-24 13:26:03] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Eno+River+%28Dur%29&gender=M
+[2026-05-24 13:26:04] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=55 Over Adult 3.5 Men Evening&year=2026
+[2026-05-24 13:26:08] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=GGlish55-CHTC&year=2026
+[2026-05-24 13:26:13] Eno River (Dur) / GGlish55-CHTC: scraped 13 players
+[2026-05-24 13:26:13] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Eno+River+%28Dur%29&gender=M
+[2026-05-24 13:26:16] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=55 Over Adult 3.5 Men Evening&year=2026
+[2026-05-24 13:26:18] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=MHolt-HS&year=2026
+[2026-05-24 13:26:22] Eno River (Dur) / MHolt-HS: scraped 11 players
+[2026-05-24 13:26:22] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Eno+River+%28Dur%29&gender=M
+[2026-05-24 13:26:23] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=55 Over Adult 3.5 Men Evening&year=2026
+[2026-05-24 13:26:25] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=NBuckley-HR&year=2026
+[2026-05-24 13:26:31] Eno River (Dur) / NBuckley-HR: scraped 14 players
+[2026-05-24 13:26:31] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Eno+River+%28Dur%29&gender=M
+[2026-05-24 13:26:33] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=55 Over Adult 3.5 Men Evening&year=2026
+[2026-05-24 13:26:35] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=RGildehaus-YMCA&year=2026&s=2
+[2026-05-24 13:26:40] Eno River (Dur) / RGildehaus-YMCA: scraped 14 players
+[2026-05-24 13:26:40] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Eno+River+%28Dur%29&gender=M
+[2026-05-24 13:26:43] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=55 Over Adult 3.5 Men Evening&year=2026
+[2026-05-24 13:26:44] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=RKern-CHTC&year=2026
+[2026-05-24 13:26:48] Eno River (Dur) / RKern-CHTC: scraped 12 players
+[2026-05-24 13:26:48] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Eno+River+%28Dur%29&gender=M
+[2026-05-24 13:26:50] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=55 Over Adult 3.5 Men Evening&year=2026
+[2026-05-24 13:26:52] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=SClark-DUR&year=2026
+[2026-05-24 13:26:56] Eno River (Dur) / SClark-DUR: scraped 12 players
+[2026-05-24 13:26:56] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Foothills+%28Hky%29&gender=M
+[2026-05-24 13:26:58] Foothills (Hky): found 1 target league row(s)
+[2026-05-24 13:26:58] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Foothills+%28Hky%29&gender=M
+[2026-05-24 13:26:59] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=Men 3.5&year=2026&s=38
+[2026-05-24 13:27:01] Foothills (Hky) / Adult 55 & Over 3.5 Men: found 2/2 teams
+[2026-05-24 13:27:01] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Foothills+%28Hky%29&gender=M
+[2026-05-24 13:27:03] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=Men 3.5&year=2026&s=38
+[2026-05-24 13:27:04] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=Mozingo-Womack%2fPC%2fFoothills&year=2026
+[2026-05-24 13:27:10] Foothills (Hky) / Mozingo-Womack/PC/Foothills: scraped 9 players
+[2026-05-24 13:27:10] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Foothills+%28Hky%29&gender=M
+[2026-05-24 13:27:11] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=Men 3.5&year=2026&s=38
+[2026-05-24 13:27:13] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=Qualifier Team&year=2026
+[2026-05-24 13:27:17] Foothills (Hky) / Qualifier Team: scraped 9 players
+[2026-05-24 13:27:17] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Lake+Norman&gender=M
+[2026-05-24 13:27:19] Lake Norman: found 1 target league row(s)
+[2026-05-24 13:27:19] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Lake+Norman&gender=M
+[2026-05-24 13:27:22] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?subflightname=M 3.5 Wed PM&year=2026
+[2026-05-24 13:27:24] Lake Norman / Adult 55 & Over 3.5 Men: found 7/7 teams
+[2026-05-24 13:27:24] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Lake+Norman&gender=M
+[2026-05-24 13:27:26] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?subflightname=M 3.5 Wed PM&year=2026
+[2026-05-24 13:27:30] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=LACH-Chapman%2fPAC&year=2026
+[2026-05-24 13:27:38] Lake Norman / LACH-Chapman/PAC: scraped 11 players
+[2026-05-24 13:27:38] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Lake+Norman&gender=M
+[2026-05-24 13:27:41] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?subflightname=M 3.5 Wed PM&year=2026
+[2026-05-24 13:27:42] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=LARU-Rummelsburg%2fPeninsula Club&year=2026
+[2026-05-24 13:27:46] Lake Norman / LARU-Rummelsburg/Peninsula Club: scraped 13 players
+[2026-05-24 13:27:46] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Lake+Norman&gender=M
+[2026-05-24 13:27:49] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?subflightname=M 3.5 Wed PM&year=2026
+[2026-05-24 13:27:52] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=LJFR-Franck%2fWestport 55s 3.5&year=2026
+[2026-05-24 13:27:55] Lake Norman / LJFR-Franck/Westport 55s 3.5: scraped 12 players
+[2026-05-24 13:27:55] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Lake+Norman&gender=M
+[2026-05-24 13:27:57] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?subflightname=M 3.5 Wed PM&year=2026
+[2026-05-24 13:27:59] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=LKHA-Harris%2fBailey%2f3.5 55%2b&year=2026
+[2026-05-24 13:28:02] Lake Norman / LKHA-Harris/Bailey/3.5 55+: scraped 11 players
+[2026-05-24 13:28:02] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Lake+Norman&gender=M
+[2026-05-24 13:28:04] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?subflightname=M 3.5 Wed PM&year=2026
+[2026-05-24 13:28:05] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=LKWO-Womack%2fCaldwell&year=2026
+[2026-05-24 13:28:12] Lake Norman / LKWO-Womack/Caldwell: scraped 11 players
+[2026-05-24 13:28:12] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Lake+Norman&gender=M
+[2026-05-24 13:28:16] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?subflightname=M 3.5 Wed PM&year=2026
+[2026-05-24 13:28:17] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=LRAG-Age%2fPeninsula&year=2026
+[2026-05-24 13:28:21] Lake Norman / LRAG-Age/Peninsula: scraped 12 players
+[2026-05-24 13:28:21] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Lake+Norman&gender=M
+[2026-05-24 13:28:23] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?subflightname=M 3.5 Wed PM&year=2026
+[2026-05-24 13:28:26] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=LSDA-Dagley%2fWestport&year=2026
+[2026-05-24 13:28:31] Lake Norman / LSDA-Dagley/Westport: scraped 11 players
+[2026-05-24 13:28:31] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Metro+%28Chl%29&gender=M
+[2026-05-24 13:28:33] Metro (Chl): found 1 target league row(s)
+[2026-05-24 13:28:33] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Metro+%28Chl%29&gender=M
+[2026-05-24 13:28:35] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=55 %26 Over Adult 3.5 Men - Tues PM&year=2026
+[2026-05-24 13:28:38] Metro (Chl) / Adult 55 & Over 3.5 Men: found 11/11 teams
+[2026-05-24 13:28:38] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Metro+%28Chl%29&gender=M
+[2026-05-24 13:28:45] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=55 %26 Over Adult 3.5 Men - Tues PM&year=2026
+[2026-05-24 13:28:48] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=DBrantmeyer (Park Road)&year=2026
+[2026-05-24 13:28:54] Metro (Chl) / DBrantmeyer (Park Road): scraped 13 players
+[2026-05-24 13:28:54] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Metro+%28Chl%29&gender=M
+[2026-05-24 13:28:58] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=55 %26 Over Adult 3.5 Men - Tues PM&year=2026
+[2026-05-24 13:29:00] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=EHuggins%2fIClarke (River Hills Country Club)&year=2026
+[2026-05-24 13:29:03] Metro (Chl) / EHuggins/IClarke (River Hills Country Club): scraped 10 players
+[2026-05-24 13:29:03] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Metro+%28Chl%29&gender=M
+[2026-05-24 13:29:06] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=55 %26 Over Adult 3.5 Men - Tues PM&year=2026
+[2026-05-24 13:29:08] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=GQuattlebaum (OPRC)&year=2026
+[2026-05-24 13:29:11] Metro (Chl) / GQuattlebaum (OPRC): scraped 14 players
+[2026-05-24 13:29:11] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Metro+%28Chl%29&gender=M
+[2026-05-24 13:29:13] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=55 %26 Over Adult 3.5 Men - Tues PM&year=2026
+[2026-05-24 13:29:15] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=JBoyles (Pine Lake)&year=2026
+[2026-05-24 13:29:18] Metro (Chl) / JBoyles (Pine Lake): scraped 10 players
+[2026-05-24 13:29:18] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Metro+%28Chl%29&gender=M
+[2026-05-24 13:29:19] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=55 %26 Over Adult 3.5 Men - Tues PM&year=2026
+[2026-05-24 13:29:21] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=JMorse%2fRTownsend (JCC)&year=2026&s=2
+[2026-05-24 13:29:26] Metro (Chl) / JMorse/RTownsend (JCC): scraped 11 players
+[2026-05-24 13:29:26] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Metro+%28Chl%29&gender=M
+[2026-05-24 13:29:28] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=55 %26 Over Adult 3.5 Men - Tues PM&year=2026
+[2026-05-24 13:29:31] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=KFox%2fMyers (Blakeney)&year=2026
+[2026-05-24 13:29:36] Metro (Chl) / KFox/Myers (Blakeney): scraped 11 players
+[2026-05-24 13:29:36] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Metro+%28Chl%29&gender=M
+[2026-05-24 13:29:38] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=55 %26 Over Adult 3.5 Men - Tues PM&year=2026
+[2026-05-24 13:29:40] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=KStaley (WSRC)&year=2026
+[2026-05-24 13:29:43] Metro (Chl) / KStaley (WSRC): scraped 11 players
+[2026-05-24 13:29:43] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Metro+%28Chl%29&gender=M
+[2026-05-24 13:29:45] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=55 %26 Over Adult 3.5 Men - Tues PM&year=2026
+[2026-05-24 13:29:46] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=MFresina (Raintree)&year=2026
+[2026-05-24 13:29:51] Metro (Chl) / MFresina (Raintree): scraped 16 players
+[2026-05-24 13:29:51] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Metro+%28Chl%29&gender=M
+[2026-05-24 13:29:53] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=55 %26 Over Adult 3.5 Men - Tues PM&year=2026
+[2026-05-24 13:29:55] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=MRousseaux (WSRC)&year=2026
+[2026-05-24 13:30:00] Metro (Chl) / MRousseaux (WSRC): scraped 14 players
+[2026-05-24 13:30:00] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Metro+%28Chl%29&gender=M
+[2026-05-24 13:30:02] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=55 %26 Over Adult 3.5 Men - Tues PM&year=2026
+[2026-05-24 13:30:06] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=RCummings (Carmel)&year=2026
+[2026-05-24 13:30:14] Metro (Chl) / RCummings (Carmel): scraped 14 players
+[2026-05-24 13:30:14] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Metro+%28Chl%29&gender=M
+[2026-05-24 13:30:21] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=55 %26 Over Adult 3.5 Men - Tues PM&year=2026
+[2026-05-24 13:30:27] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=RLinder%2fSPolacek (Life Time)&year=2026
+[2026-05-24 13:30:36] Metro (Chl) / RLinder/SPolacek (Life Time): scraped 13 players
+[2026-05-24 13:30:36] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Neuse+River&gender=M
+[2026-05-24 13:30:46] Neuse River: found 0 target league row(s)
+[2026-05-24 13:30:46] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Piedmont+%28GSO%2FHP%29&gender=M
+[2026-05-24 13:30:54] Piedmont (GSO/HP): found 1 target league row(s)
+[2026-05-24 13:30:54] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Piedmont+%28GSO%2FHP%29&gender=M
+[2026-05-24 13:30:59] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=MEN 3.5 55 %26 Over Mon PM&year=2026
+[2026-05-24 13:31:01] Piedmont (GSO/HP) / Adult 55 & Over 3.5 Men: found 8/8 teams
+[2026-05-24 13:31:01] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Piedmont+%28GSO%2FHP%29&gender=M
+[2026-05-24 13:31:04] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=MEN 3.5 55 %26 Over Mon PM&year=2026
+[2026-05-24 13:31:08] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=Bellas 55s 3.5M Mon PM&year=2026
+[2026-05-24 13:31:12] Piedmont (GSO/HP) / Bellas 55s 3.5M Mon PM: scraped 10 players
+[2026-05-24 13:31:12] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Piedmont+%28GSO%2FHP%29&gender=M
+[2026-05-24 13:31:13] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=MEN 3.5 55 %26 Over Mon PM&year=2026
+[2026-05-24 13:31:16] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=Chamberlin 55s 3.5M Mon PM&year=2026
+[2026-05-24 13:31:21] Piedmont (GSO/HP) / Chamberlin 55s 3.5M Mon PM: scraped 11 players
+[2026-05-24 13:31:21] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Piedmont+%28GSO%2FHP%29&gender=M
+[2026-05-24 13:31:22] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=MEN 3.5 55 %26 Over Mon PM&year=2026
+[2026-05-24 13:31:24] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=Clutts%2fGRETA 55s 3.5M Mon PM&year=2026
+[2026-05-24 13:31:27] Piedmont (GSO/HP) / Clutts/GRETA 55s 3.5M Mon PM: scraped 10 players
+[2026-05-24 13:31:27] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Piedmont+%28GSO%2FHP%29&gender=M
+[2026-05-24 13:31:29] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=MEN 3.5 55 %26 Over Mon PM&year=2026
+[2026-05-24 13:31:30] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=Dover 55s 3.5M Mon PM&year=2026
+[2026-05-24 13:31:34] Piedmont (GSO/HP) / Dover 55s 3.5M Mon PM: scraped 15 players
+[2026-05-24 13:31:34] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Piedmont+%28GSO%2FHP%29&gender=M
+[2026-05-24 13:31:35] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=MEN 3.5 55 %26 Over Mon PM&year=2026
+[2026-05-24 13:31:37] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=Eaton%2fMoore 55s 3.5M Mon PM&year=2026
+[2026-05-24 13:31:42] Piedmont (GSO/HP) / Eaton/Moore 55s 3.5M Mon PM: scraped 13 players
+[2026-05-24 13:31:42] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Piedmont+%28GSO%2FHP%29&gender=M
+[2026-05-24 13:31:43] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=MEN 3.5 55 %26 Over Mon PM&year=2026
+[2026-05-24 13:31:46] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=Pretzsch 55s 3.5M Mon PM&year=2026
+[2026-05-24 13:31:49] Piedmont (GSO/HP) / Pretzsch 55s 3.5M Mon PM: scraped 12 players
+[2026-05-24 13:31:49] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Piedmont+%28GSO%2FHP%29&gender=M
+[2026-05-24 13:31:51] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=MEN 3.5 55 %26 Over Mon PM&year=2026
+[2026-05-24 13:31:54] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=Schneiderman 55s 3.5M Mon PM&year=2026
+[2026-05-24 13:31:56] Piedmont (GSO/HP) / Schneiderman 55s 3.5M Mon PM: scraped 13 players
+[2026-05-24 13:31:56] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Piedmont+%28GSO%2FHP%29&gender=M
+[2026-05-24 13:31:58] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=MEN 3.5 55 %26 Over Mon PM&year=2026
+[2026-05-24 13:32:00] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=Stearns 55s 3.5M Mon PM&year=2026
+[2026-05-24 13:32:04] Piedmont (GSO/HP) / Stearns 55s 3.5M Mon PM: scraped 9 players
+[2026-05-24 13:32:04] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Sandhills+%28Pine%29&gender=M
+[2026-05-24 13:32:05] Sandhills (Pine): found 0 target league row(s)
+[2026-05-24 13:32:05] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=South+East+%28Wilm%29&gender=M
+[2026-05-24 13:32:08] South East (Wilm): found 1 target league row(s)
+[2026-05-24 13:32:08] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=South+East+%28Wilm%29&gender=M
+[2026-05-24 13:32:10] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=MEN 3.5&year=2026&s=48
+[2026-05-24 13:32:11] South East (Wilm) / Adult 55 & Over 3.5 Men: found 8/8 teams
+[2026-05-24 13:32:11] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=South+East+%28Wilm%29&gender=M
+[2026-05-24 13:32:13] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=MEN 3.5&year=2026&s=48
+[2026-05-24 13:32:15] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=Johnson %2fConsoletti&year=2026
+[2026-05-24 13:32:19] South East (Wilm) / Johnson /Consoletti: scraped 12 players
+[2026-05-24 13:32:19] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=South+East+%28Wilm%29&gender=M
+[2026-05-24 13:32:21] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=MEN 3.5&year=2026&s=48
+[2026-05-24 13:32:25] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=Kon%2fNguyen&year=2026
+[2026-05-24 13:32:28] South East (Wilm) / Kon/Nguyen: scraped 13 players
+[2026-05-24 13:32:28] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=South+East+%28Wilm%29&gender=M
+[2026-05-24 13:32:44] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=MEN 3.5&year=2026&s=48
+[2026-05-24 13:32:58] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=Kysely Spring 26&year=2026
+[2026-05-24 13:33:05] South East (Wilm) / Kysely Spring 26: scraped 11 players
+[2026-05-24 13:33:05] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=South+East+%28Wilm%29&gender=M
+[2026-05-24 13:33:07] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=MEN 3.5&year=2026&s=48
+[2026-05-24 13:33:08] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=MEISSNER%2fWILSON DAY&year=2026
+[2026-05-24 13:33:13] South East (Wilm) / MEISSNER/WILSON DAY: scraped 16 players
+[2026-05-24 13:33:13] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=South+East+%28Wilm%29&gender=M
+[2026-05-24 13:33:14] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=MEN 3.5&year=2026&s=48
+[2026-05-24 13:33:16] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=Melcher%2fPoole BF&year=2026
+[2026-05-24 13:33:19] South East (Wilm) / Melcher/Poole BF: scraped 11 players
+[2026-05-24 13:33:19] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=South+East+%28Wilm%29&gender=M
+[2026-05-24 13:33:21] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=MEN 3.5&year=2026&s=48
+[2026-05-24 13:33:23] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=O%27Connor %2f Baxter&year=2026
+[2026-05-24 13:33:28] South East (Wilm) / O'Connor / Baxter: scraped 14 players
+[2026-05-24 13:33:28] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=South+East+%28Wilm%29&gender=M
+[2026-05-24 13:33:31] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=MEN 3.5&year=2026&s=48
+[2026-05-24 13:33:34] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=Richez CP&year=2026
+[2026-05-24 13:33:38] South East (Wilm) / Richez CP: scraped 14 players
+[2026-05-24 13:33:38] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=South+East+%28Wilm%29&gender=M
+[2026-05-24 13:33:40] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=MEN 3.5&year=2026&s=48
+[2026-05-24 13:33:44] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=Scordato 55%2b&year=2026
+[2026-05-24 13:33:46] South East (Wilm) / Scordato 55+: scraped 12 players
+[2026-05-24 13:33:46] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Western+NC+%28Mtn%29&gender=M
+[2026-05-24 13:33:48] Western NC (Mtn): found 1 target league row(s)
+[2026-05-24 13:33:48] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Western+NC+%28Mtn%29&gender=M
+[2026-05-24 13:33:51] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=55%2b Adult Men 3.5 Sun&year=2026
+[2026-05-24 13:33:53] Western NC (Mtn) / Adult 55 & Over 3.5 Men: found 5/5 teams
+[2026-05-24 13:33:53] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Western+NC+%28Mtn%29&gender=M
+[2026-05-24 13:33:56] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=55%2b Adult Men 3.5 Sun&year=2026
+[2026-05-24 13:33:59] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=WNCA Seres (Peachtree)&year=2026
+[2026-05-24 13:34:02] Western NC (Mtn) / WNCA Seres (Peachtree): scraped 8 players
+[2026-05-24 13:34:02] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Western+NC+%28Mtn%29&gender=M
+[2026-05-24 13:34:04] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=55%2b Adult Men 3.5 Sun&year=2026
+[2026-05-24 13:34:06] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=WNCC Winn (HRC)&year=2026
+[2026-05-24 13:34:10] Western NC (Mtn) / WNCC Winn (HRC): scraped 10 players
+[2026-05-24 13:34:10] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Western+NC+%28Mtn%29&gender=M
+[2026-05-24 13:34:11] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=55%2b Adult Men 3.5 Sun&year=2026
+[2026-05-24 13:34:13] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=WNCG Handrahan (Connestee Falls)&year=2026
+[2026-05-24 13:34:16] Western NC (Mtn) / WNCG Handrahan (Connestee Falls): scraped 10 players
+[2026-05-24 13:34:16] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Western+NC+%28Mtn%29&gender=M
+[2026-05-24 13:34:18] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=55%2b Adult Men 3.5 Sun&year=2026
+[2026-05-24 13:34:20] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=WNCJ Carrington (HRC)&year=2026&s=2
+[2026-05-24 13:34:24] Western NC (Mtn) / WNCJ Carrington (HRC): scraped 12 players
+[2026-05-24 13:34:24] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Western+NC+%28Mtn%29&gender=M
+[2026-05-24 13:34:26] GET attempt 1/3: https://www.tennisrecord.com/adult/league.aspx?flightname=55%2b Adult Men 3.5 Sun&year=2026
+[2026-05-24 13:34:28] GET attempt 1/3: https://www.tennisrecord.com/adult/teamprofile.aspx?teamname=WNCK Brownfield (ARC South)&year=2026
+[2026-05-24 13:34:31] Western NC (Mtn) / WNCK Brownfield (ARC South): scraped 13 players
+[2026-05-24 13:34:31] GET attempt 1/3: https://www.tennisrecord.com/adult/league/leaguefind.aspx?year=2026&lt=3&sectionname=Southern&districtname=North+Carolina&areaname=Yadkin+Valley+%28W-S%29&gender=M
+[2026-05-24 13:34:34] Yadkin Valley (W-S): found 0 target league row(s)
+[2026-05-24 13:34:34] Done. Areas=14 Leagues=10 Teams=67 Players=808
